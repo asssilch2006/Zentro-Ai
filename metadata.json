@@ -1,0 +1,6 @@
+{
+  "name": "Zentro - Tech Review & AI Tools Directory",
+  "description": "Zentro - Modern tech review and recommendation directory for trusted digital services including AI tools, web hosting, VPNs, secure email, and productivity software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
